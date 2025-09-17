@@ -79,7 +79,7 @@ python plate_detector.py
 cd stage2/task2_pendulum_control
 
 python pendulum.py
-
+B
 ## 📋 任务完成情况
 
 ### 第一阶段
